@@ -1,5 +1,7 @@
 # Welcome to Delta Dash Wiki !
-![](https://cdn.discordapp.com/attachments/1027181434361872454/1027275435937124434/ddBaniereRedditMobile.png)
+||
+|:--:|
+| ![](https://cdn.discordapp.com/attachments/1027181434361872454/1027275435937124434/ddBaniereRedditMobile.png) |
 
 This Wiki is your ultimate resource for everything related to Delta Dash, 
 Whether you're a seasoned expert or a newcomer to the game, 
