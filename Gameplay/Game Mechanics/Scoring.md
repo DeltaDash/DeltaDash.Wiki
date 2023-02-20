@@ -18,6 +18,7 @@ Mod Multiplier is a value that determines how much each hit judgement is worth. 
 The game register each individual hit judgement and calculate the accuracy based on it.
 
 Each hit judgment has a value that is used to calculate the accuracy. The values are as follows:
+
 | Hit Judgment | Value |
 |--------------|-------|
 | Perfect      | 100   |
@@ -37,6 +38,7 @@ When using mods that harden your gameplay, the game tolerate having a few misses
 Having miss will highly impact your rank.
 
 But in a NoMod Context, Accuracy gaps are like theses:
+
 | Accuracy | Rank Letter Without Miss | Rank Letter With Miss |
 |----------|--------------------------|-----------------------|
 | = 100%     | SS                       |                     |

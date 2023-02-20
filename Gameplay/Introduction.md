@@ -2,27 +2,24 @@
 
 In Delta Dash, the player's objective is to manage two rhythm lines that appear on the top and bottom of the screen. The goal is to tap the notes that correspond to the rhythm of the song being played. The player's performance is assessed based on their accuracy.
 
-## Elements in the Game
+## Introduction
 
-There are two types of elements in Delta Dash: the single note and the long note.
+Delta dash is a Community driven rhythm game, so Every maps is made by the players for the players, so you can find a lot of different maps, from easy to hard, from simple to complex and from short to long.
 
-### Single Note
 
-A single note is a simple straight line that may appear from either side of the screen. The player's objective is to tap the note when it reaches the judgement line in the center of the screen.
+If you only wants to play and enjoy the maps game, you can download maps from the InGame Store, but if you want to make your own maps, you can use the Map Editor, that is a tool that allows you to create your own maps, and share them with the community.
 
-![Short Note](https://gateway.deltada.sh/screenshots/1121522050220321/e9Zk2A2qDpgXDLk2.png)
+The Beatmap Download Section is available in the TaskBar, Available Anywhere in the game *(F11 if the TaskBar is hidden)*
 
-### Long Note
+![](https://gateway.deltada.sh/screenshots/1121522050220321/0pFhplxtgWYeLXhR.png)
 
-A long note is a curved line that may also appear from either side of the screen. The player's objective is to hold the note from the moment it enters the judgement line until it leaves it.
-
-![Long Note](https://gateway.deltada.sh/screenshots/1121522050220321/3qtrw2959MhRGDAM.png)
-
-## Note Appearance
-
-Notes may appear from any direction on either rhythm line at any time. The player's goal is to tap the note as close as possible to the judgement line while maintaining a consistent combo.
-
-Notes appearing in Yellow are Mirrored notes, that mean you must **press** and **release** them at the same time
-
-![Mirrored Note](https://gateway.deltada.sh/screenshots/1121522050220321/yQ56f4tXnD7CXKHu.png)
-
+## Important points
+When playing a map you encounter lots of different mechanics, and you need to know how to play them, so here are most important elements of the game are explained in the `Gameplay/Game Mechanics` section of the Wiki.
+| Wiki | Description |
+| :--- | :--- |
+| [Game Elements](/wiki/Gameplay/Game%20Mechanics/Game%20elements) | Elements in the Game |
+| [Health](/wiki/Gameplay/Game%20Mechanics/Health) | What is that green curved bar ? |
+| [Scoring](/wiki/Gameplay/Game%20Mechanics/Scoring) | Scoring in Delta Dash |
+| [Hit Judgments](/wiki/Gameplay/Game%20Mechanics/Hit%20Judgments) | Why did i get a miss |
+| [Map Stats](/wiki/Gameplay/Game%20Mechanics/Map%20Stats) | What are those stats in the game ? |
+| [Mods](/wiki/Gameplay/Game%20Mechanics/Mods) | What are mods ? |
