@@ -15,6 +15,7 @@ The Beatmap Download Section is available in the TaskBar, Available Anywhere in 
 
 ## Important points
 When playing a map you encounter lots of different mechanics, and you need to know how to play them, so here are most important elements of the game are explained in the `Gameplay/Game Mechanics` section of the Wiki.
+
 | Wiki | Description |
 | :--- | :--- |
 | [Game Elements](/wiki/Gameplay/Game%20Mechanics/Game%20elements) | Elements in the Game |
