@@ -9,7 +9,7 @@ Delta dash is a Community driven rhythm game, so Every maps is made by the playe
 
 If you only wants to play and enjoy the maps game, you can download maps from the InGame Store, but if you want to make your own maps, you can use the Map Editor, that is a tool that allows you to create your own maps, and share them with the community.
 
-The Beatmap Download Section is available in the TaskBar, Available Anywhere in the game *(F11 if the TaskBar is hidden)*
+The Beatmap Download Section is available in the TaskBar, Available Anywhere in the game *(F11 if the TaskBar is hidden)*.
 
 ![](https://gateway.deltada.sh/screenshots/1121522050220321/0pFhplxtgWYeLXhR.png)
 
