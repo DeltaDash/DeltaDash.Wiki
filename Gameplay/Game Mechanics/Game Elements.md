@@ -5,11 +5,13 @@ There are two types of elements in Delta Dash: the single note and the long note
 ### Single Note
 
 A single note is a simple straight line that may appear from either side of the screen. The player's objective is to tap the note when it reaches the judgement line in the center of the screen.
+
 ![Short Note](https://gateway.deltada.sh/screenshots/1121522050220321/e9Zk2A2qDpgXDLk2.png)
 
 ### Long Note
 
 A long note is a curved line that may also appear from either side of the screen. The player's objective is to hold the note from the moment it enters the judgement line until it leaves it.
+
 ![Long Note](https://gateway.deltada.sh/screenshots/1121522050220321/3qtrw2959MhRGDAM.png)
 
 ## Note Appearance

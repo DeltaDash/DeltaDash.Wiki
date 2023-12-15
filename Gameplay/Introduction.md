@@ -21,6 +21,6 @@ When playing a map you encounter lots of different mechanics, and you need to kn
 | [Game Elements](/wiki/Gameplay/Game%20Mechanics/Game%20elements) | Elements in the Game |
 | [Health](/wiki/Gameplay/Game%20Mechanics/Health) | What is that green curved bar ? |
 | [Scoring](/wiki/Gameplay/Game%20Mechanics/Scoring) | Scoring in Delta Dash |
-| [Hit Judgments](/wiki/Gameplay/Game%20Mechanics/Hit%20Judgments) | Why did i get a miss |
+| [Hit Judgement](/wiki/Gameplay/Game%20Mechanics/Hit%20Judgements) | Why did i get a miss |
 | [Map Stats](/wiki/Gameplay/Game%20Mechanics/Map%20Stats) | What are those stats in the game ? |
 | [Mods](/wiki/Gameplay/Game%20Mechanics/Mods) | What are mods ? |
